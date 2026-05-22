@@ -8,7 +8,7 @@
 
 ---
 
-- 🎓 Final-year **CSE student** at Roland Institute of Technology, Berhampur — **CGPA: 8.67**
+- 🎓 Final-year **CSE student** at Roland Institute of Technology, Berhampur - **CGPA: 8.67**
 - 💼 Ex **Web Developer Intern** at **APIETECH, Bhubaneswar** (Nov 2024 – Mar 2025)
 - 🌍 Based in **Berhampur, Odisha, India**
 - 📧 Reach me at **swetaranipanigrahy13@gmail.com**
