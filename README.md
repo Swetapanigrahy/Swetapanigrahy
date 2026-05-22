@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Sweta Rani Panigrahy</h1>
 
-<h3 align="center">Full Stack Developer · MERN · Java · Spring Boot · AI Apps</h3>
+<h3 align="center">Full Stack Developer · MERN · Java · Spring Boot</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Java+Spring+Boot;Building+AI-Powered+Web+Apps;+%F0%9F%9A%80" alt="Typing SVG" />
@@ -12,7 +12,6 @@
 - 💼 Ex **Web Developer Intern** at **APIETECH, Bhubaneswar** (Nov 2024 – Mar 2025)
 - 🌍 Based in **Berhampur, Odisha, India**
 - 📧 Reach me at **swetaranipanigrahy13@gmail.com**
-- 🧠 Currently building **AI-powered full stack applications**
 - 🤝 Open to collaborating on **Full Stack / AI Projects**
 - 🚀 **Seeking full-time Software Development roles**
 
