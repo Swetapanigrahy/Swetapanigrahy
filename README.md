@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer · MERN · Java · Spring Boot · AI Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Java+Spring+Boot;Building+AI-Powered+Web+Apps;Open+to+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Java+Spring+Boot;Building+AI-Powered+Web+Apps;+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -80,20 +80,6 @@
 - Built responsive UIs using **React.js, Tailwind CSS & Redux Toolkit** in an Agile environment
 - Integrated RESTful APIs across **Lolify, CFLRS & Digital Repository – IPEL**
 - Collaborated with cross-functional teams on UI/UX improvements and bug resolution
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swetapanigrahy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swetapanigrahy&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swetapanigrahy&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
 ---
 
 ## 🔗 Connect with me
