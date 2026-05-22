@@ -12,7 +12,7 @@
 - 💼 Ex **Web Developer Intern** at **APIETECH, Bhubaneswar** (Nov 2024 – Mar 2025)
 - 🌍 Based in **Berhampur, Odisha, India**
 - 📧 Reach me at **swetaranipanigrahy13@gmail.com**
-- 🤝 Open to collaborating on **Full Stack Project**
+- 🤝 Open to collaborating on **Fullstack AI Projects**
 - 🚀 **Seeking full-time Software Development roles**
 ---
 
